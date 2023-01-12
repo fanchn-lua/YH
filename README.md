@@ -1,10 +1,3 @@
-<meta name="description" itemprop="description" content="你有三千笔墨赋我诗怀 
-我有半阙新词予你情衷
-。">
-    <link rel="shortcut icon" href="4.jpg">
-    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css">
-</head>
-
 <body>
     <div class="wrapper">
         <div class="main">
