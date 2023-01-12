@@ -1,9 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN"><!-- This web page is copied by the "https://bazhan.wang" --><head><meta charset="utf-8">
-    
-    <meta name="viewport" content="initial-scale=1.0,maximum-scale=1,user-scalable=no">
-    <title>YHP-凡尘的主页</title>
-    <meta name="keywords" content="YHP-凡尘">
-    <meta name="description" itemprop="description" content="你有三千笔墨赋我诗怀 
+<meta name="description" itemprop="description" content="你有三千笔墨赋我诗怀 
 我有半阙新词予你情衷
 。">
     <link rel="shortcut icon" href="4.jpg">
