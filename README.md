@@ -105,7 +105,7 @@
                             <li id="AliPay">AliPay</li>
                             <li id="WeChat">WeChat</li>
                             <li id="QQ">QQ</li>
-                        </ul>
+                        
                         <div id="QRBox" class="pos-f left-100">
                             <div id="MainBox"></div>
                         </div>
@@ -202,55 +202,3 @@ $(function(){
         }
     });
 
-    MainBox.click(function (event) {
-        MainBox.removeClass('showQR').addClass('hideQR');
-        setTimeout(function (a) {
-            QRBox.fadeOut(300, function (argument) {
-                MainBox.removeClass('hideQR');
-            });
-            $('#DonateText,#donateBox,#github').removeClass('blur');
-        }, 600);
-    });
-
-    let ap3 = new APlayer({
-        element: document.getElementById('player3'),//样式1
-        narrow: false,
-        autoplay: false,
-        showlrc: true,
-        preload: 'auto',
-        music: {
-            title: '解药(新版)',
-            author: '报告-一切运行正常',
-            url: '1.mp3',
-            pic: '5.png'
-        }
-    });
-    ap3.init();
-    
-    let _Blog = window._Blog || {};
-    const currentTheme = window.localStorage && window.localStorage.getItem('theme');
-    const isDark = currentTheme === 'dark';
-    if (isDark) {
-        document.getElementById("switch_default").checked = true;
-    } else {
-        document.getElementById("switch_default").checked = false;
-    }
-    _Blog.toggleTheme = function () {
-        if (isDark) {
-            document.getElementsByTagName('body')[0].classList.add('dark-theme');
-        } else {
-            document.getElementsByTagName('body')[0].classList.remove('dark-theme');
-        }
-        document.getElementsByClassName('toggleBtn')[0].addEventListener('click', () => {
-            if (document.getElementsByTagName('body')[0].classList.contains('dark-theme')) {
-                document.getElementsByTagName('body')[0].classList.remove('dark-theme');
-            } else {
-                document.getElementsByTagName('body')[0].classList.add('dark-theme');
-            }
-            window.localStorage && window.localStorage.setItem('theme', document.body.classList.contains('dark-theme') ? 'dark' : 'light',)
-        })
-    };
-    _Blog.toggleTheme();
-})
-</script>
-</body></html>
