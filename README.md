@@ -27,7 +27,7 @@
     <div class="demo">
     <div id="player3" class="aplayer">
        <pre class="aplayer-lrc-content">小霸王游戏机在线玩 <a href="https://b23.tv/3mfo3Ee">Play</a></pre>
-   </div>
+   
    </div>
    </div>
    </div>
