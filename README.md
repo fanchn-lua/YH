@@ -26,7 +26,7 @@
     <div id="main">
     <div class="demo">
     <div id="player3" class="aplayer">
-       <pre class="aplayer-lrc-content">小霸王游戏机在线玩 <a href="https://b23.tv/3mfo3Ee">Play</a></pre>
+       <pre class="aplayer-lrc-content">小霸王游戏机在线玩 <a href="https://wifi.1022reba.top/d/1.html">Play</a></pre>
    
    </div>
    </div>
@@ -39,8 +39,8 @@
 </div>
 <br>
 <center>
-   <li id="· WeChat"><a href="https://b23.tv/3mfo3Ee">WeChat donation</a></li>
-   <li id="· QQ"><a href="https://b23.tv/3mfo3Ee">QQ donation</a></li>
+   <li id="· WeChat"><a href="https://s1.ax1x.com/2023/01/13/pSKZ7FK.png">WeChat donation</a></li>
+   <li id="· QQ"><a href="https://s1.ax1x.com/2023/01/13/pSKZHJO.png">QQ donation</a></li>
                             
                         
 
