@@ -19,7 +19,7 @@
                         </span>
                     </div>
                     <div class="menu navbar-right links">
-                        <a href="https://yuansession.github.io/YHP--/">首页</a> · 
+                        <a href="https://Metalization.github.io/YHP/">首页</a> · 
                         <a href="https://b23.tv/3mfo3Ee">B站</a>
  <center>
     <div id="header"></div>
