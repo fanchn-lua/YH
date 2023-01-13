@@ -39,19 +39,9 @@
 </div>
 <br>
  ◇微信
-<center>
-   <div id="header"></div>
-   <div id="main">
-   <div class="demo">
-   <div id="player3" class="aplayer">
-      <pre class="aplayer-lrc-content"><a href="https://s1.ax1x.com/2023/01/13/pSKRuE4.png"</a>WeChat donation</pre>
+  <a href="https://s1.ax1x.com/2023/01/13/pSKRuE4.png"> · WeChat donation</a>
 
  ◇QQ
-<center>
-   <div id="header"></div>
-   <div id="main">
-   <div class="demo">
-   <div id="player3" class="aplayer">
-      <pre class="aplayer-lrc-content"><a href="https://s1.ax1x.com/2023/01/13/pSKRlCR.png"</a>QQ donation</pre>
+  <a href="https://s1.ax1x.com/2023/01/13/pSKRlCR.png"> · QQ donation</a>
                         
 
