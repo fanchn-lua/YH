@@ -8,7 +8,7 @@
                     </div>
                     <div class="nickname">YHP-元化工作室</div>
                     <div class="description">
-                        <p>“白茶清欢无别事，我在等风也等你。”</p>
+                        <p>“元巳本嗣，亦是凡尘。”</p>
                     </div>
                     <div class="zuobiao">
                         <i class="ico_map"></i>
@@ -35,13 +35,13 @@
                     </div>
                     <div style=" line-height: 20px;font-size: 9pt;">
                         <p>"没人会记得我，也没有被值得记得。"</p>
-                        <p style="margin-left: 8rem;font-size: 8pt;"><small>—— 凡尘主页</small></p>
+                        <p style="margin-left: 8rem;font-size: 8pt;"><small>—— YHP-元化工作室</small></p>
                     </div>
                     <br>
                     <center>
                         <ul id="donateBox" class="list pos-f tr3">
                             <li id="WeChat"><a href="https://b23.tv/3mfo3Ee">微信捐赠</a></li>
                             <li id="QQ"><a href="https://b23.tv/3mfo3Ee">QQ捐赠</a></li>
-                            <li id="QQ">QQ</li>
+                            
                         
 
