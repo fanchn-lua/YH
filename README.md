@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="intro">
                     <div class="user-warp img">
-                        <img src="4.jpg" alt="YHP-元化工作室">
+                        <img src="◇" alt="YHP-元化工作室">
                     </div>
                     <div class="nickname">YHP-元化工作室</div>
                     <div class="description">
@@ -12,7 +12,7 @@
                     </div>
                     <div class="zuobiao">
                         <i class="ico_map"></i>
-                        <span>中国</span>
+                        <span>🇨🇳中国</span>
                         <span style="margin-left: 10px;">
                             <input id="switch_default" type="checkbox" class="switch_default">
                             <label for="switch_default" class="toggleBtn"></label>
