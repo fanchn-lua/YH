@@ -39,9 +39,9 @@
 </div>
 <br>
  ◇微信
-  <a href="https://s1.ax1x.com/2023/01/13/pSKRuE4.png"> · WeChat donation</a>
+  <a href="https://s1.ax1x.com/2023/01/15/pSQeBX4.png"> · WeChat donation</a>
 
  ◇QQ
-  <a href="https://s1.ax1x.com/2023/01/13/pSKRlCR.png"> · QQ donation</a>
+  <a href="https://s1.ax1x.com/2023/01/15/pSQernJ.png"> · QQ donation</a>
                         
 
